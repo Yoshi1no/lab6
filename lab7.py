@@ -5,7 +5,7 @@ from typing import Dict, List, Optional
 
 # Configuration
 API_CREDENTIALS = {
-    "key": "skS5fWcYWCjCNELhDJM6x6vsH0YGb3mB3jqHd32ASH32RvU119POX7XGz3eXnhGRXoO1jfYOc5LyuI1Yb01E3b",  # Replace with your API key
+    "key": "",  # Replace with your API key
     "endpoint": "https://api.ataix.kz/api/orders"
 }
 ORDERS_DATABASE = "orders_data.json"
