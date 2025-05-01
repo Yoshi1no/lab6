@@ -5,7 +5,7 @@ import time
 from typing import List, Dict, Optional
 
 # Configuration
-API_KEY = "skS5fWcYWCjCNELhDJM6x6vsH0YGb3mB3jqHd32ASH32RvU119POX7XGz3eXnhGRXoO1jfYOc5LyuI1Yb01E3b"
+API_KEY = ""
 ORDERS_FILE = "orders_data.json"
 API_ENDPOINT = "https://api.ataix.kz/api/orders"
 REQUEST_DELAY = 1  # Delay in seconds between API requests
